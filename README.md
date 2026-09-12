@@ -248,3 +248,6 @@ This repository serves as the official landing page for Combat Manager. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Combat Manager today!**
+
+---
+**Last updated:** 2026-09-12 05:34:40 UTC
