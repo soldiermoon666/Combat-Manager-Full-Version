@@ -250,4 +250,4 @@ This repository serves as the official landing page for Combat Manager. The soft
 **Get the most recent version of Combat Manager today!**
 
 ---
-**Last updated:** 2026-09-24 18:58:47 UTC
+**Last updated:** 2026-09-24 22:16:23 UTC
